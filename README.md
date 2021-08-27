@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @prag0703
 - 👀 I’m interested in Data Analytics
 - 🌱 I’m currently learning SQL, Python, Tableau 
+- Tableau Public: https://public.tableau.com/app/profile/pragati.koladiya
 - 📫 Reach me - pragatidobariya10@gmail.com
 
 <!---
