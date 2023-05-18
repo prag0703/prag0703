@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @prag0703
 - 👀 I’m interested in Data Analytics
 - 🌱 I’m currently brushing up my SQL, Python, and Tableau skills.
-- 📌 OPEN TO WORK 👩🏻‍💻 Data Analyst at G2.com
+- 📌 OPEN TO WORK 👩🏻‍💻 Former Data Analyst at G2.com
 - Tableau Public: https://public.tableau.com/app/profile/pragati.koladiya
 - 📫 Reach me - pragatidobariya10@gmail.com
 
